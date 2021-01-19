@@ -1,4 +1,4 @@
-##Order Notification for Telegram
+## Order Notification for Telegram
 
 * Contributors: choplugins
 * Tags: telegram, bot, notification, woocommerce, wooccommerce to telegram
@@ -14,31 +14,31 @@
 
 Send a message to your Telegram account/group when an order is placed or status changed.
 
-####Description
+#### Description
 
 One of the traditional way of notification is by sending email, but with great support Telegram. You will be notified of important orders quickly and conveniently
 
-####Features
+#### Features
 
 * Send orders from wooccommerce to telegram account/group
 * Filter order statuses applied
 * Messages quickly
 * Convenient to use
 
-####Installation
+#### Installation
 
 1. Upload the entire `nk-telegram-notification-for-woocommerce` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to Woocommerce - Settings - Telegram Notification Tab
 
-####Frequently Asked Questions
+#### Frequently Asked Questions
 
 Do you have questions or issues with Order Notification for Telegram? Leave a comment in this post.
 
 1. [Docs](https://choplugins.com/en/blog/telegram-notification-woocommerce-tutorial)
 
 
-####Changelog
+#### Changelog
 
 ***1.0.0***
 * First commit
