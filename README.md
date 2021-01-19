@@ -27,7 +27,7 @@ One of the traditional way of notification is by sending email, but with great s
 
 #### Installation
 
-1. Upload the entire `nk-telegram-notification-for-woocommerce` folder to the `/wp-content/plugins/` directory.
+1. Upload the entire `order-notification-for-telegram` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to Woocommerce - Settings - Telegram Notification Tab
 
